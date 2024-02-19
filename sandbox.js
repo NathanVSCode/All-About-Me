@@ -1,3 +1,5 @@
+
+
 alert('The page you will see is GREAT!');
 
 
@@ -14,6 +16,3 @@ myForm.onSubmit = function(){
     }
 };
 
-myForm.name.onFocus = function(){
-    myForm.name.style.border = "3px dashed cyan"
-};
