@@ -19,10 +19,7 @@ h1{
     max-width: 400px;
 }    
     
-        li{
-    text-shadow: 3px 3px lightgray;
 
-}
         p.hi{
     color:black;
 
@@ -40,7 +37,7 @@ h1{
         }
 
         h3{
-    color:green;
+    color:rgb(145, 131, 0);
         }
 
     .bottom{
