@@ -37,9 +37,12 @@ h1{
         }
 
         h3{
-    color:rgb(145, 131, 0);
+            color:black;
         }
 
     .bottom{
+        color: blue
+    }
+    .Noah_baba{
         color: blue
     }
